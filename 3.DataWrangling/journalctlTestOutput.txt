@@ -1,0 +1,31 @@
+ago 07 10:17:21 lfgs-d77mk systemd[1766]: Startup finished in 3min 2.649s.
+ago 07 10:12:50 lfgs-d77mk systemd[1]: Startup finished in 4.616s (kernel) + 2min 35.035s (userspace) = 2min 39.651s.
+ago 07 10:12:13 lfgs-d77mk systemd[1058]: Startup finished in 57.457s.
+ago 06 15:01:11 lfgs-d77mk systemd[1763]: Startup finished in 3min 2.313s.
+ago 06 14:57:27 lfgs-d77mk systemd[1]: Startup finished in 4.900s (kernel) + 2min 33.923s (userspace) = 2min 38.824s.
+ago 06 14:56:49 lfgs-d77mk systemd[1060]: Startup finished in 52.277s.
+ago 06 08:16:50 lfgs-d77mk systemd[1989]: Startup finished in 3min 2.465s.
+ago 06 07:01:24 lfgs-d77mk systemd[1]: Startup finished in 4.872s (kernel) + 2min 31.237s (userspace) = 2min 36.109s.
+ago 06 07:00:49 lfgs-d77mk systemd[1077]: Startup finished in 54.223s.
+ago 05 11:27:11 lfgs-d77mk systemd[1705]: Startup finished in 3min 4.159s.
+ago 05 11:24:12 lfgs-d77mk systemd[1]: Startup finished in 4.736s (kernel) + 2min 41.158s (userspace) = 2min 45.895s.
+ago 05 11:23:29 lfgs-d77mk systemd[1100]: Startup finished in 54.651s.
+ago 04 17:06:10 lfgs-d77mk systemd[1712]: Startup finished in 3min 2.945s.
+ago 04 17:03:08 lfgs-d77mk systemd[1]: Startup finished in 15.738s (kernel) + 2min 31.177s (userspace) = 2min 46.916s.
+ago 04 17:02:32 lfgs-d77mk systemd[1115]: Startup finished in 52.308s.
+ago 04 09:31:50 lfgs-d77mk systemd[1]: Startup finished in 5.045s (kernel) + 11min 21.420s (userspace) = 11min 26.465s.
+ago 04 09:26:57 lfgs-d77mk systemd[1952]: Startup finished in 3min 5.344s.
+ago 04 09:23:05 lfgs-d77mk systemd[1085]: Startup finished in 1min 31.521s.
+ago 03 10:16:32 lfgs-d77mk systemd[1]: Startup finished in 4.948s (kernel) + 10min 58.914s (userspace) = 11min 3.863s.
+ago 03 10:16:13 lfgs-d77mk systemd[1794]: Startup finished in 7min 51.704s.
+ago 03 10:07:38 lfgs-d77mk systemd[1094]: Startup finished in 1min 5.736s.
+ago 02 16:31:16 lfgs-d77mk systemd[1706]: Startup finished in 3min 4.642s.
+ago 02 16:28:31 lfgs-d77mk systemd[1]: Startup finished in 18.173s (kernel) + 2min 49.815s (userspace) = 3min 7.989s.
+ago 02 16:27:34 lfgs-d77mk systemd[1069]: Startup finished in 51.595s.
+ago 02 10:45:34 lfgs-d77mk systemd[3642]: Startup finished in 3min 2.321s.
+ago 02 10:27:41 lfgs-d77mk systemd[1]: Startup finished in 4.947s (kernel) + 2min 33.537s (userspace) = 2min 38.485s.
+ago 02 10:27:06 lfgs-d77mk systemd[1077]: Startup finished in 52.991s.
+ago 01 10:57:36 lfgs-d77mk systemd[1963]: Startup finished in 3min 2.474s.
+ago 01 10:41:44 lfgs-d77mk systemd[1]: Startup finished in 5.281s (kernel) + 2min 45.634s (userspace) = 2min 50.915s.
+ago 01 10:41:04 lfgs-d77mk systemd[1065]: Startup finished in 1min 511ms.
+
