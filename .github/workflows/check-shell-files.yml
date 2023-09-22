@@ -1,0 +1,11 @@
+name: check-shell-files
+run-name: Run shellcheck on all shell files
+on: [push]
+jobs:
+  shellcheck:
+    name: Shellcheck
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run shellcheck
+        uses: ludeeus/action-shellcheck@master
+

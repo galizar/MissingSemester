@@ -1,7 +1,8 @@
 EPASmartLocationDatabaseV3.csv
 
 # make output
-paper.pdf
+paper.*
+!paper.tex
 plot-*.png
 texput.log
 plt
