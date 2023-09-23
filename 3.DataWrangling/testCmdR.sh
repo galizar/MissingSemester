@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 cat /usr/share/dict/words  \
 | awk '/(.*a.*){3,}/' \
 | sed "/'s/d" \

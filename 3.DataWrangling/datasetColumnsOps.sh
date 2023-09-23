@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # handling this dataset in csv format: https://catalog.data.gov/dataset/walkability-index
 
 cat datasets/EPASmartLocationDatabaseV3.csv \

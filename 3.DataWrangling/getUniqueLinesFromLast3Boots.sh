@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # extract all data from last 3 boots
 #for i in {0..2}; do
 #    journalctl --boot=-$i >> /tmp/last3boots.txt;

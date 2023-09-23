@@ -1,5 +1,4 @@
-# counting the words
-
+#!/usr/bin/env bash
 
 # getting words that contain three `a`s and that don't have a `'s` ending
 cat /usr/share/dict/words \

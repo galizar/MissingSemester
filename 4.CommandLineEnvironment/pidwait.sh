@@ -18,7 +18,7 @@
 #}
 
 pidwait() {
-    if [[ $@ -eq 0 ]]; then
+    if [[ $# -eq 0 ]]; then
         echo "No PID received"
         exit 1
     fi
